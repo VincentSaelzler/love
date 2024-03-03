@@ -1,4 +1,8 @@
 # main links
 main:
-  - title: Wedding
-    url: /wedding/
+  - title: Wedding Day
+    url: /wedding-day/
+  - title: Wedding Photos
+    url: /wedding-photos/
+  - title: Wedding Venue
+    url: /wedding-venue/

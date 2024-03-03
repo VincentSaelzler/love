@@ -1,13 +1,13 @@
 ---
-permalink: /wedding/
+permalink: /wedding-photos/
 layout: single
-title:  "Wedding Day"
-excerpt: "The best wedding we've ever been to!"
+title:  "Wedding Photos"
+excerpt: "Some highlights of the day."
 gallery:
-  - image_path: "/assets/images/wedding-bridesmaids.jpg"
-    url: "/assets/images/wedding-bridesmaids.jpg"
   - image_path: "/assets/images/wedding-bubbles.jpg"
     url: "/assets/images/wedding-bubbles.jpg"
+  - image_path: "/assets/images/wedding-bridesmaids.jpg"
+    url: "/assets/images/wedding-bridesmaids.jpg"
   - image_path: "/assets/images/wedding-david.jpg"
     url: "/assets/images/wedding-david.jpg"
   - image_path: "/assets/images/wedding-friends.jpg"

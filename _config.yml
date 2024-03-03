@@ -1,10 +1,10 @@
-title: Our Journey
+title: Love Story
 subtitle: Bethany and Vincent Saelzler
 description: The life and times of Vincent and Bethany Saelzler.
 locale: en
 
 url: "https://saelzler.org"
-logo: "/favicon.ico"
+logo: "/assets/images/honeymoon-family-zoom.jpg"
 
 plugins:
   - jekyll-feed
