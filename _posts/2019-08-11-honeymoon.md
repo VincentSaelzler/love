@@ -16,6 +16,6 @@ gallery:
 ---
 Shout-out to *the crew*
 
-The three other couples on our cruise helped make it a blast!
+The three other couples on our cruise helped make our cruise around the Greek isles a blast!
 
 {% include gallery layout="full" %}
