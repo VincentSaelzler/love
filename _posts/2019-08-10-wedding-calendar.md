@@ -1,8 +1,8 @@
 ---
-permalink: /wedding-day/
 layout: single
-title:  "Wedding Calendar of Events"
-excerpt: "The best wedding we've ever been to!"
+title:  "Calendar of Events"
+excerpt: "The plan."
+tags: wedding
 ---
 **All events are at the same venue, Dennis Vineyards.**
 

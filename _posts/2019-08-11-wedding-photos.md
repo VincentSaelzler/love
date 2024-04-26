@@ -1,7 +1,7 @@
 ---
-permalink: /wedding-photos/
 layout: single
-title:  "Wedding Photos"
+title:  "Photos"
+tags: wedding
 excerpt: "Some highlights of the day."
 gallery:
   - image_path: "/assets/images/wedding-bubbles.jpg"

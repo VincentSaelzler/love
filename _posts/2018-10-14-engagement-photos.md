@@ -1,7 +1,8 @@
 ---
 layout: single
-title:  "Engagement Photos"
+title:  "Engagement"
 excerpt: "Falling in love, caught on camera."
+tags: wedding
 gallery:
 - image_path: "/assets/images/engagement-church-stairs.jpg"
   url: "/assets/images/engagement-church-stairs.jpg"

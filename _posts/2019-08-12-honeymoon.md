@@ -2,6 +2,7 @@
 layout: single
 title:  "Honeymoon Cruise"
 excerpt: "Cruising around the Greek Isles"
+permalink: /honeymoon/
 gallery:
 - image_path: "/assets/images/honeymoon-croatia.jpg"
   url: "/assets/images/honeymoon-croatia.jpg"
