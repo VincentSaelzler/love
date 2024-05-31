@@ -1,11 +1,3 @@
----
-title: Wedding
-layout: tag
-permalink: /wedding/
-taxonomy: wedding
----
-## We’ve Been Happily Married For. . .
-<script>
 /*
  countdown.js v2.6.1 http://countdownjs.org
  Copyright (c)2006-2014 Stephen M. McKamey.
@@ -37,12 +29,3 @@ function updateDiv() {
 }
 // run the update every second
 setInterval(updateDiv, 1000);
-</script>
-
-<!-- based on the formatting of a markdown code block (made with ''') -->
-<div class="language-plaintext highlighter-rouge">
-  <div class="highlight">
-    <pre class="highlight"><code id="timer"></code></pre>
-  </div>
-</div>
-

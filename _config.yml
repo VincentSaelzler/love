@@ -18,6 +18,17 @@ date_format: "%-d %B, %Y"
 atom_feed:
   hide: true
 
+include: ["_pages"]
+
+collections:
+  wedding:
+    output: true
+    permalink: /:collection/:path/
+
+head_scripts:
+  - /assets/js/countup.js
+
+
 defaults:
   # _posts
   - scope:
@@ -25,3 +36,9 @@ defaults:
       type: posts
     values:
       show_date: true
+  # _wedding
+  - scope:
+      path: ""
+      type: wedding
+    values:
+      layout: single

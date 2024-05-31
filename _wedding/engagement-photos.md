@@ -2,7 +2,7 @@
 layout: single
 title:  "Engagement"
 excerpt: "Falling in love, caught on camera."
-tags: wedding
+date: 2018-10-14
 gallery:
 - image_path: "/assets/images/engagement-church-stairs.jpg"
   url: "/assets/images/engagement-church-stairs.jpg"
