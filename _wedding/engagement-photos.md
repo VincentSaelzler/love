@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Engagement"
+title:  "Engagement Photos"
 excerpt: "Falling in love, caught on camera."
 date: 2018-10-14
 gallery:
@@ -26,6 +26,8 @@ gallery:
   url: "/assets/images/engagement-steps-kiss.jpg"
 - image_path: "/assets/images/engagement-walking.jpg"
   url: "/assets/images/engagement-walking.jpg"
+header:
+  overlay_image: "/assets/images/engagement-walking.jpg"
 ---
 Falling in love, caught on camera.
 {% include gallery layout="full" %}
