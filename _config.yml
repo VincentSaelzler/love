@@ -1,10 +1,10 @@
-title: Love Story
-subtitle: Bethany and Vincent Saelzler
-description: The life and times of Vincent and Bethany Saelzler.
+title: The Saelzler-Bates Wedding
+subtitle: August 10, 2019
+# description: August 10, 2019
 locale: en
 
-url: "https://saelzler.org"
-logo: "/assets/images/honeymoon-family-zoom.jpg"
+url: "https://bethanyandvincent.com"
+logo: "/assets/images/wedding-bubbles-thumbnail.jpg"
 
 plugins:
   - jekyll-feed

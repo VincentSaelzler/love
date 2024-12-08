@@ -1,6 +1,6 @@
 ---
 title: The Saelzler-Bates Wedding
-layout: collection
+layout: single
 permalink: /wedding/
 collection: wedding
 # entries_layout: grid
