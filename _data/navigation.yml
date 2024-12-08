@@ -4,22 +4,5 @@ main:
     url: /venue/
   - title: Registry and Gifts
     url: /registry/  
-
-# The love f b v
-
-# Our Storyx
-# How We Met
-# Trips with Friends
-
-
-# Engagement
-
-# Wedding
-# Venue
-# Photos
-# Calendar of Events
-# Announcements
-
-# Honeymoon
-
-# After Happily Ever After
+  - title: Photos
+    url: /photos/ 
