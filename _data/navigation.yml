@@ -1,11 +1,7 @@
 # main links
 main:
-  - title: The Wedding
-    url: /
-  - title: Wedding
-    url: /wedding/
-  - title: Honeymoon
-    url: /honeymoon/
+  - title: Venue
+    url: /venue/
   
 
 # The love f b v
