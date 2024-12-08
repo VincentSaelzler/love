@@ -51,6 +51,17 @@ engagement_gallery:
     url: "/assets/images/engagement-steps-kiss.jpg"
   - image_path: "/assets/images/engagement-walking.jpg"
     url: "/assets/images/engagement-walking.jpg"
+early_gallery:
+  - image_path: "/assets/images/early-rome.jpg"
+    url: "/assets/images/early-rome.jpg"
+  - image_path: "/assets/images/early-hotel.jpg"
+    url: "/assets/images/early-hotel.jpg"
+  - image_path: "/assets/images/early-hug.jpg"
+    url: "/assets/images/early-hug.jpg"
+  - image_path: "/assets/images/early-pillow.jpg"
+    url: "/assets/images/early-pillow.jpg"
+  - image_path: "/assets/images/early-snowstorm.jpg"
+    url: "/assets/images/early-snowstorm.jpg"
 ---
 ## Wedding Photos
 
@@ -73,3 +84,9 @@ The three other couples on our cruise helped make our cruise around the Greek is
 Falling in love, caught on camera.
 
 {% include gallery id="engagement_gallery" layout="full" %}
+
+# Can We Park Here?
+
+Some photos from the early days 😉
+
+{% include gallery id="early_gallery" layout="full" %}
