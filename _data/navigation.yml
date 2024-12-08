@@ -2,7 +2,8 @@
 main:
   - title: Venue
     url: /venue/
-  
+  - title: Registry and Gifts
+    url: /registry/  
 
 # The love f b v
 

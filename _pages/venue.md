@@ -1,8 +1,7 @@
 ---
-title: The Saelzler-Bates Wedding
+title: Venue
 layout: single
 permalink: /venue/
-excerpt: August 10, 2019
 header:
   overlay_image: /assets/images/hero-steps-kiss.jpg
 ---
