@@ -19,13 +19,19 @@ d.CENTURIES=512;d.MILLENNIA=1024;d.DEFAULTS=222;d.ALL=2047;var D=d.setFormat=fun
 function(){p=" millisecond; second; minute; hour; day; week; month; year; decade; century; millennium".split(";");q=" milliseconds; seconds; minutes; hours; days; weeks; months; years; decades; centuries; millennia".split(";");r=" and ";t=", ";u="";x=function(a){return a};f=C};d.setLabels=function(a,b,c,d,f,k,m){D({singular:a,plural:b,last:c,delim:d,empty:f,formatNumber:k,formatter:m})};d.resetLabels=B;B();"undefined"!==typeof module&&module.exports?module.exports=d:"undefined"!==typeof window&&("function"===
 typeof window.define&&"undefined"!==typeof window.define.amd)&&window.define("countdown",[],function(){return d});return d}();
 // library ^^^
-function getValue() {
-  weddingDate = new Date(2019,7,8,10,30) // local time of client machine
-  return countdown(weddingDate).toString();
+function getTimeSpan() {
+  weddingDate = new Date(2019,7,8,17,30) // local time of client machine
+  return countdown(weddingDate);
 }
 // update the html element
 function updateDiv() {
-  document.getElementById('timer').innerHTML = getValue();
+  timespan = getTimeSpan();
+  document.getElementById('yearcell').innerHTML = timespan.years;
+  document.getElementById('monthcell').innerHTML = timespan.months;
+  document.getElementById('daycell').innerHTML = timespan.days;
+  document.getElementById('hourcell').innerHTML = timespan.hours;
+  document.getElementById('minutecell').innerHTML = timespan.minutes;
+  document.getElementById('secondcell').innerHTML = timespan.seconds;
 }
 // run the update every second
 setInterval(updateDiv, 1000);

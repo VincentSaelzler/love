@@ -26,15 +26,25 @@ Ceremony starts at 5:00 PM.
 
 After meeting in a parking lot, we have been inseparable ever since.
 
-*We’ve Been Happily Married For. . .*
+## We’ve Been Happily Married For. . .
 
-<!-- based on the formatting of a markdown code block (made with ''') -->
-<div class="language-plaintext highlighter-rouge">
-  <div class="highlight">
-
-    <pre class="highlight"><code id="timer"></code></pre>
-
-  </div>
-</div>
+<table class="centered-table">
+  <tr>
+    <th id="yearcell"></th>
+    <th id="monthcell"></th>
+    <th id="daycell"></th>
+    <th id="hourcell"></th>
+    <th id="minutecell"></th>
+    <th id="secondcell"></th>
+  </tr>
+  <tr class="small-row">
+    <th>Years</th>
+    <th>Months</th>
+    <th>Days</th>
+    <th>Hours</th>
+    <th>Minutes</th>
+    <th>Seconds</th>
+  </tr>
+</table>
 
 ![](/assets/images/early-rome.jpg)

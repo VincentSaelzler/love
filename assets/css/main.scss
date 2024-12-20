@@ -1,0 +1,17 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+// following directions in https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#customizing
+// to override specific tables
+// this is for the "we've been married for" countup on the home page
+// .centered-table { margin-bottom: 0;}
+.centered-table th { text-align: center; font-size: 2em; font-weight: lighter; }
+.small-row th { font-size: 1em; }
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
